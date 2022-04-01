@@ -114,6 +114,34 @@
     text-decoration: underline;
 }
 
+.footer {
+    text-align: center;
+}
+
+.instructions {
+
+
+
+  -webkit-animation: fadein .5s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadein .5s; /* Firefox < 16 */
+  -ms-animation: fadein .5s; /* Internet Explorer */
+  -o-animation: fadein .5s; /* Opera < 12.1 */
+  animation: fadein .5s;
+}
+
+.instructionsTxt {
+  font-family: Inconsolata, monospace;
+  color: #000000;
+  text-align: center;
+  margin: auto;
+
+  -webkit-animation: fadein .5s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadein .5s; /* Firefox < 16 */
+  -ms-animation: fadein .5s; /* Internet Explorer */
+  -o-animation: fadein .5s; /* Opera < 12.1 */
+  animation: fadein .5s;
+}
+
 .link {
     text-decoration: none;
     
