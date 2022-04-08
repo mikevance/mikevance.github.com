@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function(){ openSea(); }, false);
+document.addEventListener("DOMContentLoaded", function(){ parse(); }, false);
 
 function parse() {
     const url = window.location.href;
